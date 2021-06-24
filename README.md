@@ -1,5 +1,5 @@
 # Homework 05
-**Brianna Wilson Green**
+**Brianna Wilson Green**&nbsp
 **June 24, 2021**
 
-This homework analyzes data from animals.csv and richpeople.csv using pandas and python in jupyter notebooks.
+This homework analyzes data from animals.csv and richpeople.csv using Pandas and Python in Jupyter notebooks.
